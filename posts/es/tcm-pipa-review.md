@@ -54,9 +54,9 @@ Cuando empiezas a trabajar con las herramientas, te das cuenta de lo relativamen
 
 ## Formato del examen (¡importante!)
 
-Si te preguntas como puede ser el examen al haber componentes hardware de por medio, la respuesta es muy sencilla: el examen se centra sobre todo en la parte de **Ingeniería Inversa de Firmware**.
+Si te preguntas cómo puede ser el examen al haber componentes hardware de por medio, la respuesta es muy sencilla: el examen se centra sobre todo en la parte de **Ingeniería Inversa de Firmware**.
 
-Te dan acceso a una máquina virtual con **capturas del analizador lógico** y **firmware ya extraído**, y a partir de ahí tienes que identificar vulnerabilidades usando **PulseView** y **Ghidra**, dos herramientas que se trabajan durante el curso. Además, el examen aporta contexto sobre el sistema para que entiendas cómo encaja el dispositivo dentro de un entorno IoT más amplio y qué fugas de informaciñon tendrían realmente impacto o no.
+Te dan acceso a una máquina virtual con **capturas del analizador lógico** y **firmware ya extraído**, y a partir de ahí tienes que identificar vulnerabilidades usando **PulseView** y **Ghidra**, dos herramientas que se trabajan durante el curso. Además, el examen aporta contexto sobre el sistema para que entiendas cómo encaja el dispositivo dentro de un entorno IoT más amplio y qué fugas de información tendrían realmente impacto o no.
 
 El examen dura **4 días en total**:
 
@@ -77,6 +77,6 @@ Eso sí, venir con cierta soltura en **Linux** y con unos mínimos de **informá
 
 ## Mi valoración general
 
-Si buscas una forma estructurada y asequible de empezar en **seguridad IoT**, PIPA me parece una muy buen comienzo. Eso sí, conviene rebajar las expectativas ya que no es un curso centrado en protocolos inalámbricos de IoT, sino más bien en interfaces hardware y análisis de firmware.
+Si buscas una forma estructurada y asequible de empezar en **seguridad IoT**, PIPA me parece un muy buen comienzo. Eso sí, conviene rebajar las expectativas ya que no es un curso centrado en protocolos inalámbricos de IoT, sino más bien en interfaces hardware y análisis de firmware.
 
 En conjunto, el contenido está bien planteado, el examen es práctico y bastante alineado con situaciones reales, y como primera toma de contacto creo que funciona muy bien. Si te interesa la seguridad en IoT, es una certificación que puede ayudarte a empezar con buen pie y a ganar confianza trabajando con hardware.
