@@ -1,6 +1,6 @@
 ---
 id: "tcm-pipa-review"
-title: "PIPA Review: Practical IoT Pentest Associate Certification"
+title: "PIPA certification review: Practical IoT Pentest Associate"
 author: "gorka-vila-perez"
 publishedDate: 2023-06-30
 updatedDate: 2023-06-30
