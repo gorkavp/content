@@ -1,9 +1,8 @@
 ---
 name: "Gorka Vila Pérez"
 bio: "Ciberseguridad, hardware hacking, IoT pentesting."
-avatar: "https://cdn.deephacking.tech/i/authors/gorka-vila-perez.webp"
-github: "https://github.com/gorkavp" # opcional
-linkedin: "https://www.linkedin.com/in/gorkavp/" # opcional
+github: "https://github.com/gorkavp"
+linkedin: "https://www.linkedin.com/in/gorkavp/"
 lang: "en"
 ---
 

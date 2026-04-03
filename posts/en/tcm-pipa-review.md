@@ -1,10 +1,10 @@
 ---
 id: "tcm-pipa-review"
-title: "PIPA certification review: Practical IoT Pentest Associate"
+title: "PIPA Review: Practical IoT Pentest Associate 2026"
 author: "gorka-vila-perez"
-publishedDate: 2023-06-30
-updatedDate: 2023-06-30
-image: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161911026"
+publishedDate: 2026-04-07
+updatedDate: 2026-04-07
+image: ""
 description: "Review of the Practical IoT Pentest Associate (PIPA) certification from TCM Security, covering the exam structure, content, and personal experience."
 categories:
   - "certifications"
@@ -13,9 +13,9 @@ featured: false
 lang: "en"
 ---
 
-![PIPA badge from TCM Security](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/161911026)
-
 I’ve always been interested in IoT because it basically combines electronics and networking, and this mix is exactly what makes it fun and scary from a security perspective. That’s what pushed me to go for the **Practical IoT Pentest Associate (PIPA)** certification, previously called Practical Junior IoT Tester / PJIT; the name changed, but the content stayed the same.
+
+![PIPA badge from TCM Security](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/161911026)
 
 IoT pentesting feels like a “newer” niche compared to classic web/app pentesting, but it’s getting more important every year. More devices get deployed daily, and many of them transmit sensitive data over the internet, often with weak security assumptions. So if you want to get into IoT security, starting with the fundamentals is honestly a good move.
 
@@ -24,8 +24,6 @@ To prepare you for the exam, they provide a course called **Beginner’s Guide t
 - Electronics fundamentals: Ohm's Law, Kirchhoff's Voltage/Current Law, Series/Parallel Circuit, Capacitors, Inductors, Diodes, Transistors, Logic Analyzers, UART
 - Recon/Enumeration and OSINT: IoT architecture, embedded systems, UART shell, live enumeration
 - Firmware extraction/analysis: SPI, inspecting firmware, manual firmware extraction, reverse engineering firmware
-
-Generally, while you can find the majority of information about the course across various blogs, posts, and articles, the advantage of taking it is that the content is presented in a logical order and explained in a user-friendly way, making it easier for you to learn. The instructor, Andrew, offers clear explanations for each topic and provides multiple ways to contact him, ensuring he is available to answer any questions you may have.
 
 You can find most of the topics scattered across blog posts and random tutorials online, but the big advantage here is that everything is **organized in a clean learning path**. It’s easier to follow than hopping between ten different sources. The instructor, Andrew, explains concepts clearly and also gives multiple ways to contact him, which is genuinely helpful if you get stuck. You can take a look at the entire course, which has been published to YouTube, by following the link:
 

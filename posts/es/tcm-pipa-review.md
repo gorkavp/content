@@ -1,10 +1,10 @@
 ---
 id: "tcm-pipa-review"
-title: "Review de la certificación PIPA: Practical IoT Pentest Associate"
+title: "PIPA Review: Practical IoT Pentest Associate 2026"
 author: "gorka-vila-perez"
-publishedDate: 2023-06-30
-updatedDate: 2023-06-30
-image: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161911026"
+publishedDate: 2026-04-07
+updatedDate: 2026-04-07
+image: ""
 description: "Reseña de la certificación Practical IoT Pentest Associate (PIPA) de TCM Security, con la estructura del examen, el contenido del curso y mi experiencia personal."
 categories:
   - "certifications"
@@ -13,9 +13,9 @@ featured: false
 lang: "es"
 ---
 
-![Insignia PIPA de TCM Security](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/161911026)
-
 Siempre me ha llamado la atención el mundo del IoT porque mezcla dos áreas que por separado ya son interesantes, como la electrónica y las redes, y juntas abren bastantes frentes desde el punto de vista de la seguridad. Eso fue lo que me animó a sacarme la certificación **Practical IoT Pentest Associate (PIPA)**, que antes se llamaba Practical Junior IoT Tester o PJIT. Cambió el nombre, pero el contenido sigue siendo el mismo.
+
+![Insignia PIPA de TCM Security](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/161911026)
 
 El pentesting en entornos IoT sigue siendo un nicho más reciente que el pentesting web o de aplicaciones tradicional, pero cada vez tiene más peso. Cada día se despliegan más dispositivos conectados, y muchos de ellos manejan datos sensibles con medidas de seguridad bastante pobres. Si te interesa empezar en seguridad IoT, creo que tiene bastante sentido hacerlo desde una base sólida.
 
@@ -31,12 +31,12 @@ El curso completo está disponible en YouTube aquí:
 
 [Beginner's Guide to IoT and Hardware Hacking](https://www.youtube.com/watch?v=j8SqZLr64NA)
 
-- [Electrónica (mi experiencia)](#electronica-mi-experiencia)
+- [Electrónica (mi experiencia)](#electrónica-mi-experiencia)
 - [Equipamiento: opcional, pero lo recomiendo](#equipamiento-opcional-pero-lo-recomiendo)
 - [La parte divertida: extraer e inspeccionar el firmware](#la-parte-divertida-extraer-e-inspeccionar-el-firmware)
 - [Formato del examen (¡importante!)](#formato-del-examen-importante)
 - [Dificultad y requisitos previos](#dificultad-y-requisitos-previos)
-- [Mi valoración general](#mi-valoracion-general)
+- [Mi valoración general](#mi-valoración-general)
 
 ## Electrónica (mi experiencia)
 
